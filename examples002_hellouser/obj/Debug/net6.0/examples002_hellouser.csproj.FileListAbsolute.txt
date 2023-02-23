@@ -1,0 +1,15 @@
+D:\example_practic\examples002_hellouser\bin\Debug\net6.0\examples002_hellouser.exe
+D:\example_practic\examples002_hellouser\bin\Debug\net6.0\examples002_hellouser.deps.json
+D:\example_practic\examples002_hellouser\bin\Debug\net6.0\examples002_hellouser.runtimeconfig.json
+D:\example_practic\examples002_hellouser\bin\Debug\net6.0\examples002_hellouser.dll
+D:\example_practic\examples002_hellouser\bin\Debug\net6.0\examples002_hellouser.pdb
+D:\example_practic\examples002_hellouser\obj\Debug\net6.0\examples002_hellouser.csproj.AssemblyReference.cache
+D:\example_practic\examples002_hellouser\obj\Debug\net6.0\examples002_hellouser.GeneratedMSBuildEditorConfig.editorconfig
+D:\example_practic\examples002_hellouser\obj\Debug\net6.0\examples002_hellouser.AssemblyInfoInputs.cache
+D:\example_practic\examples002_hellouser\obj\Debug\net6.0\examples002_hellouser.AssemblyInfo.cs
+D:\example_practic\examples002_hellouser\obj\Debug\net6.0\examples002_hellouser.csproj.CoreCompileInputs.cache
+D:\example_practic\examples002_hellouser\obj\Debug\net6.0\examples002_hellouser.dll
+D:\example_practic\examples002_hellouser\obj\Debug\net6.0\refint\examples002_hellouser.dll
+D:\example_practic\examples002_hellouser\obj\Debug\net6.0\examples002_hellouser.pdb
+D:\example_practic\examples002_hellouser\obj\Debug\net6.0\examples002_hellouser.genruntimeconfig.cache
+D:\example_practic\examples002_hellouser\obj\Debug\net6.0\ref\examples002_hellouser.dll
