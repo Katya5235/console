@@ -1,0 +1,15 @@
+D:\example_practic\examples001_primer\bin\Debug\net6.0\examples001_primer.exe
+D:\example_practic\examples001_primer\bin\Debug\net6.0\examples001_primer.deps.json
+D:\example_practic\examples001_primer\bin\Debug\net6.0\examples001_primer.runtimeconfig.json
+D:\example_practic\examples001_primer\bin\Debug\net6.0\examples001_primer.dll
+D:\example_practic\examples001_primer\bin\Debug\net6.0\examples001_primer.pdb
+D:\example_practic\examples001_primer\obj\Debug\net6.0\examples001_primer.csproj.AssemblyReference.cache
+D:\example_practic\examples001_primer\obj\Debug\net6.0\examples001_primer.GeneratedMSBuildEditorConfig.editorconfig
+D:\example_practic\examples001_primer\obj\Debug\net6.0\examples001_primer.AssemblyInfoInputs.cache
+D:\example_practic\examples001_primer\obj\Debug\net6.0\examples001_primer.AssemblyInfo.cs
+D:\example_practic\examples001_primer\obj\Debug\net6.0\examples001_primer.csproj.CoreCompileInputs.cache
+D:\example_practic\examples001_primer\obj\Debug\net6.0\examples001_primer.dll
+D:\example_practic\examples001_primer\obj\Debug\net6.0\refint\examples001_primer.dll
+D:\example_practic\examples001_primer\obj\Debug\net6.0\examples001_primer.pdb
+D:\example_practic\examples001_primer\obj\Debug\net6.0\examples001_primer.genruntimeconfig.cache
+D:\example_practic\examples001_primer\obj\Debug\net6.0\ref\examples001_primer.dll
